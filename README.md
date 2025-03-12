@@ -22,5 +22,5 @@ Then, create a new conda environment from the `environment.yml` file and activat
 
 ```sh
 conda env create -f environment.yml
-conda activate lfp_workshop
+conda activate lfp_analysis
 ```
